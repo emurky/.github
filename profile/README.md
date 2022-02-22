@@ -1,15 +1,12 @@
-## Hi there 👋
-
 <!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# emurky
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emurky)](https://github.com/JaeSeoKim/badge42)
+## Hello there!
+My name is **Safar Safarly** and I am a student of [_School 21_](https://21-school.ru) (Moscow campus).
+School 21 was opened by Sber under [_École 42_](https://42.fr/en/homepage/) franchise.
+And as a student I'd have to make several projects to learn C programming, develop simple software using classic algorithms, discover access to the file system, and learn management of the UNIX processes. And also there are projects on C++ and oriented programming.
+This page was created just to separate my school projects from my personal ones.
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emurky?darkmode=true)](https://github.com/JaeSeoKim/badge42)
