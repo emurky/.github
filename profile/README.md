@@ -12,4 +12,4 @@ And as a student I'd have to make several projects to learn C programming, devel
 
 This page was created just to separate my school projects from my personal ones.
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emurky?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emurky?darkmode=true?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
